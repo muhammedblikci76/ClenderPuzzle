@@ -1,1 +1,1 @@
-# ClenderPuzzle
+Calendar Puzzle is an application designed for children to teach the concepts of date and time. The app asks users questions about a future date and helps them solve them. For example, "What date will be 10 days from today?" With questions like these, children can improve their date calculation skills.
